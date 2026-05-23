@@ -1,9 +1,20 @@
-# E-Commerce-Web-Application
-Build a basic online store with product management and order tracking.
-Key Features:
-Product catalog, add to cart, and checkout functionality
-User login and role-based access (Admin/User)
-Backend APIs for product & order management
-Database integration with MySQL, PostgreSQL, or MongoDB
-Expected Outcome:
-Gain hands-on experience in building a complex full-stack application with real-world features.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/73e60b22-6b6a-4a2a-98c3-6bd324ab57d0
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
